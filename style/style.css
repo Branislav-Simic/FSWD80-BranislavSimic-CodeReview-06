@@ -1,0 +1,8 @@
+
+
+.jumbotron{
+    height: 500px;
+    background: url('../img/vienna.jpg') 50% 20%;
+    background-size: cover;
+
+}
